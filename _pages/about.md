@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! This is the personal website of Peter Eckmann, undergraduate student at UC San Diego. I am pursuing a B.S. in Computer Science, and am fortunate to be a member of [Dr. Rose Yu's](https://roseyu.com/) Lab. My research interests include machine learning and its applications to small molecule drug discovery. Particularly, my work has involved deep generative modeling, molecular dynamics, and few-shot learning. 
 
-I have also been involved with the [FAIR Data Informatics (FDI)](https://www.fdilab.org/) Lab at UC San Diego since a high school internship, where I use machine learning tools to quantify research quality and reproducibility. 
+I am also involved with the [FAIR Data Informatics (FDI)](https://www.fdilab.org/) Lab at UC San Diego following a high school internship, where I use machine learning tools to quantify research quality and reproducibility. 
 
 Education
 ======
