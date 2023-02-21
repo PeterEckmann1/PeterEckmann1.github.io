@@ -30,7 +30,7 @@ Honors and Awards
 Conference Publications
 =====
 * **Eckmann P**, Sun K, Zhao B, Feng M, Gilson M, Yu R (2022). LIMO: Latent Inceptionism for Targeted Molecule Generation. *Proceedings of the 39th International Conference on Machine Learning (ICML)*, in *Proceedings of Machine Learning Research* 162:5777-5792 (2022, June 17-23) \[Spotlight\]. [\[PDF\]](https://proceedings.mlr.press/v162/eckmann22a/eckmann22a.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/LIMO) [\[Website\]](https://www.limo-aimd.com/)
-* **Eckmann P**, Anderson J, Gilson M, Yu R (2023). Target-Free Ligand Scoring via Few-Shot Learning. Manuscript in review at *40th International Conference on Machine Learning (ICML 2023)*.
+* **Eckmann P**, Anderson J, Gilson M, Yu R (2023). Target-Free Compound Activity Prediction via Few-Shot Learning. Manuscript in review at *40th International Conference on Machine Learning (ICML 2023)*.
 
 Journal Publications
 =====
