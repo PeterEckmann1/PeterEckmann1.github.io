@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm an undergraduate student at UC San Diego pursuing a B.S. in Computer Science. I am fortunate to be a member of [Dr. Rose Yu's](https://roseyu.com/) Spatiotemporal Machine Learning Lab. My primary research interests are machine learning and its applications to small molecule drug discovery. Particularly, my work has involved deep generative modeling, molecular dynamics, and few-shot learning. 
+Welcome! I'm an undergraduate student at UC San Diego pursuing a B.S. in Computer Science. I am a member of [Dr. Rose Yu's](https://roseyu.com/) Spatiotemporal Machine Learning Lab. My primary research interests are machine learning and its applications to small molecule drug discovery. Particularly, my work has involved deep generative modeling, molecular dynamics, and few-shot learning. 
 
 I am also involved with the [FAIR Data Informatics (FDI)](https://www.fdilab.org/) Lab at UC San Diego following a high school internship, where I use machine learning tools to quantify research quality and reproducibility. 
 
