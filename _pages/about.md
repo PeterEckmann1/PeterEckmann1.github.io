@@ -15,13 +15,13 @@ I am also involved with the [FAIR Data Informatics (FDI)](https://www.fdilab.org
 Education
 ======
 * Undergraduate, University of California San Diego *(Sept. 2021 - June 2025)*
-  * B.S. Computer Science, 3.896 GPA
+  * B.S. Computer Science, 3.931 GPA
 * High school student, University City High School, San Diego *(Sept. 2017 - June 2021)*
   * 4.86 GPA
 
 Honors and Awards
 ======
-* NSF Research Experiences for Undergraduates Award *(June - Sept. 2022)*
+* NSF Research Experiences for Undergraduates Award *(June - Sept. 2023)*
 * Regents Scholarship, UC San Diego *(2021 - 2025)*
 * Salutatorian, University City High School *(2021)*
 * Finalist, National Merit Scholarship Corporation *(2021)*
