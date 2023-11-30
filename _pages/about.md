@@ -31,10 +31,6 @@ Conference Publications
 =====
 * **Eckmann P**, Sun K, Zhao B, Feng M, Gilson M, Yu R (2022). LIMO: Latent Inceptionism for Targeted Molecule Generation. *Proceedings of the 39th International Conference on Machine Learning (ICML)*, in *Proceedings of Machine Learning Research* 162:5777-5792 (2022, June 17-23) \[Spotlight\]. [\[PDF\]](https://petereckmann1.github.io/files/limo.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/LIMO) [\[Website\]](https://www.limo-aimd.com/)
 
-Preprints
-=====
-* **Eckmann P**, Anderson J, Gilson M, Yu R (2023). Target-Free Compound Activity Prediction via Few-Shot Learning. *arXiv*:2206.09010v1 [cs.LG]. [\[Link\]](https://arxiv.org/abs/2311.16328) [\[PDF\]](https://petereckmann1.github.io/files/fscap.pdf)
-
 Journal Publications
 =====
 * Weissgerber T, Riedel N, Kilicoglu H, Labbé C, **Eckmann P**, Ter Riet G, Byrne J, Cabanac G, Capes-Davis A, Favier B, Saladi S, Grabitz P, Bannach-Brown A, Schulz R, McCann S, Bernard R, Bandrowski A (2021). Automated screening of COVID-19 preprints: can we help authors to improve transparency and reproducibility? *Nature Medicine* 27:6-7, 2021. [\[PDF\]](https://petereckmann1.github.io/files/automated-screening.pdf)
@@ -43,6 +39,10 @@ Journal Publications
 * Bandrowski A, Pairish M, **Eckmann P**, Grethe J, Martone ME (2023). The Antibody Registry: ten years of registering antibodies. *Nucleic Acids Research*, 51(D1), D358-D367. [\[PDF\]](https://petereckmann1.github.io/files/antibody-registry.pdf)
 * **Eckmann P**, Bandrowski A (2023). PreprintMatch: a tool for preprint publication detection applied to analyze global inequities in scientific publishing. *PLoS ONE* 18(3): e0281659. [\[PDF\]](https://petereckmann1.github.io/files/preprint-match.pdf) [\[Code\]](https://github.com/PeterEckmann1/preprint-match)
 * Ayoubi R, Ryan J, Biddle MS, Alshafie W, Fotouhi M, Bolivar SG, Moleon VR, **Eckmann P**, Worrall D, McDowell I, Southern K, Reintsch W, Durcan TM, Brown C, Bandrowski A, Virk H, Edwards AM, McPherson P, Laflamme C (2023). Scaling of an antibody validation procedure enables quantification of antibody performance in major research applications. *eLife*, 12:RP91645. [\[PDF\]](https://petereckmann1.github.io/files/paper4.pdf)
+
+Preprints
+=====
+* **Eckmann P**, Anderson J, Gilson M, Yu R (2023). Target-Free Compound Activity Prediction via Few-Shot Learning. *arXiv*:2206.09010v1 [cs.LG]. [\[Link\]](https://arxiv.org/abs/2311.16328) [\[PDF\]](https://petereckmann1.github.io/files/fscap.pdf)
 
 Conference Abstracts
 =====
