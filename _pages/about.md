@@ -42,6 +42,7 @@ Journal Publications
 * Schulz R, Barnett A, Bernard R, Brown NJ, Byrne JA, **Eckmann P**, Gazda MA, Kilicoglu H, Prager EM, Salholz-Hillel M, Ter Riet G, Vines T, Vorland CJ, Zhuang H, Bandrowski A, Weissgerber TL (2022). Is the future of peer review automated? *BMC Research Notes*, 15(1), 1-5. [\[PDF\]](https://petereckmann1.github.io/files/future-automated.pdf)
 * Bandrowski A, Pairish M, **Eckmann P**, Grethe J, Martone ME (2023). The Antibody Registry: ten years of registering antibodies. *Nucleic Acids Research*, 51(D1), D358-D367. [\[PDF\]](https://petereckmann1.github.io/files/antibody-registry.pdf)
 * **Eckmann P**, Bandrowski A (2023). PreprintMatch: a tool for preprint publication detection applied to analyze global inequities in scientific publishing. *PLoS ONE* 18(3): e0281659. [\[PDF\]](https://petereckmann1.github.io/files/preprint-match.pdf) [\[Code\]](https://github.com/PeterEckmann1/preprint-match)
+* Ayoubi R, Ryan J, Biddle MS, Alshafie W, Fotouhi M, Bolivar SG, Moleon VR, **Eckmann P**, Worrall D, McDowell I, Southern K, Reintsch W, Durcan TM, Brown C, Bandrowski A, Virk H, Edwards AM, McPherson P, Laflamme C (2023). Scaling of an antibody validation procedure enables quantification of antibody performance in major research applications. *eLife*, 12:RP91645. [\[PDF\]](https://petereckmann1.github.io/files/paper4.pdf)
 
 Conference Abstracts
 =====
