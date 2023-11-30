@@ -41,7 +41,7 @@ Journal Publications
 * Menke, J, **Eckmann P**, Ozyurt IB, Roelandse M, Anderson N, Grethe J, Bandrowski A (2022). Establishing Institutional Scores With the Rigor and Transparency Index: Large-scale Analysis of Scientific Reporting Quality. *Journal of Medical Internet Research*, 24(6), e37324. [\[PDF\]](https://petereckmann1.github.io/files/rti2.pdf)
 * Schulz R, Barnett A, Bernard R, Brown NJ, Byrne JA, **Eckmann P**, Gazda MA, Kilicoglu H, Prager EM, Salholz-Hillel M, Ter Riet G, Vines T, Vorland CJ, Zhuang H, Bandrowski A, Weissgerber TL (2022). Is the future of peer review automated? *BMC Research Notes*, 15(1), 1-5. [\[PDF\]](https://petereckmann1.github.io/files/future-automated.pdf)
 * Bandrowski A, Pairish M, **Eckmann P**, Grethe J, Martone ME (2023). The Antibody Registry: ten years of registering antibodies. *Nucleic Acids Research*, 51(D1), D358-D367. [\[PDF\]](https://petereckmann1.github.io/files/antibody-registry.pdf)
-* **Eckmann P**, Bandrowski A (2023). PreprintMatch: a tool for preprint publication detection applied to analyze global inequities in scientific publishing. *PLOS ONE*, in press. [\[PDF\]](https://petereckmann1.github.io/files/preprint-match.pdf) [\[Code\]](https://github.com/PeterEckmann1/preprint-match)
+* **Eckmann P**, Bandrowski A (2023). PreprintMatch: a tool for preprint publication detection applied to analyze global inequities in scientific publishing. *PLoS ONE* 18(3): e0281659. [\[PDF\]](https://petereckmann1.github.io/files/preprint-match.pdf) [\[Code\]](https://github.com/PeterEckmann1/preprint-match)
 
 Conference Abstracts
 =====
