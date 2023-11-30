@@ -42,7 +42,7 @@ Journal Publications
 
 Preprints
 =====
-* **Eckmann P**, Anderson J, Gilson M, Yu R (2023). Target-Free Compound Activity Prediction via Few-Shot Learning. *arXiv*:2206.09010v1 [cs.LG]. [\[Link\]](https://arxiv.org/abs/2311.16328) [\[PDF\]](https://petereckmann1.github.io/files/fscap.pdf)
+* **Eckmann P**, Anderson J, Gilson M, Yu R (2023). Target-Free Compound Activity Prediction via Few-Shot Learning. *arXiv*:2206.09010v1 [cs.LG]. [\[PDF\]](https://petereckmann1.github.io/files/fscap.pdf)
 
 Conference Abstracts
 =====
