@@ -44,6 +44,11 @@ Journal Publications
 Preprints
 =====
 * **Eckmann P**, Anderson J, Gilson M, Yu R (2023). Target-Free Compound Activity Prediction via Few-Shot Learning. *arXiv*:2311.16328v1 [cs.LG]. [\[PDF\]](https://petereckmann1.github.io/files/fscap.pdf)
+* **Eckmann P**, Wu D, Heinzelmann G, Gilson M, Yu R (2024). MFBind: a Multi-Fidelity Approach for Evaluating Drug Compounds in Practical Generative Modeling. *arXiv*:2402.10387v1 [q-bio.BM]. [\[PDF\]](https://petereckmann1.github.io/files/mfbind.pdf)
+
+Patents
+====
+* Yu R, **Eckmann P**, Sun K, Zhao B, Feng M, Gilson M (2023). Computational architecture to generate representations of molecules having targeted properties. United States patent pending US20240005179A1. June 16, 2023. [\[Link\]](https://patents.google.com/patent/US20240005179A1/en)
 
 Conference Abstracts
 =====
