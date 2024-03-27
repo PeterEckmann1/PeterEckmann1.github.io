@@ -15,7 +15,7 @@ I am also involved with the [FAIR Data Informatics (FDI)](https://www.fdilab.org
 Education
 ======
 * Undergraduate, University of California San Diego *(Sept. 2021 - June 2025)*
-  * B.S. Computer Science, 3.940 GPA
+  * B.S. Computer Science, 3.949 GPA
 * High school student, University City High School, San Diego *(Sept. 2017 - June 2021)*
   * 4.86 GPA
 
@@ -45,6 +45,10 @@ Preprints
 =====
 * **Eckmann P**, Anderson J, Gilson M, Yu R (2023). Target-Free Compound Activity Prediction via Few-Shot Learning. *arXiv*:2311.16328v1 [cs.LG]. [\[PDF\]](https://petereckmann1.github.io/files/fscap.pdf)
 * **Eckmann P**, Wu D, Heinzelmann G, Gilson M, Yu R (2024). MFBind: a Multi-Fidelity Approach for Evaluating Drug Compounds in Practical Generative Modeling. *arXiv*:2402.10387v1 [q-bio.BM]. [\[PDF\]](https://petereckmann1.github.io/files/mfbind.pdf)
+
+Invited Talks
+====
+* Learning on Graphs and Geometry (LoGG) Reading Group, Valence Labs *(Mar. 2024)*. MFBind: a Multi-Fidelity Approach for Evaluating Drug Compounds in Practical Generative Modeling. [\[Link\]](https://portal.valencelabs.com/events/post/mfbind-a-multi-fidelity-approach-for-evaluating-drug-compounds-in-5GhXYNdjBuYTwrW)
 
 Patents
 ====
