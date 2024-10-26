@@ -30,6 +30,7 @@ Honors and Awards
 
 Conference Publications
 =====
+* **Eckmann P**, Wu D, Heinzelmann G, Gilson M, Yu R (2024). MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning. *AIDrugX* and *Machine Learning in Structural Biology* workshops at the *Conference on Neural Information Processing Systems* (2024, December 15). [\[PDF\]](https://petereckmann1.github.io/files/mflal.pdf) 
 * **Eckmann P**, Sun K, Zhao B, Feng M, Gilson M, Yu R (2022). LIMO: Latent Inceptionism for Targeted Molecule Generation. *Proceedings of the 39th International Conference on Machine Learning (ICML)*, in *Proceedings of Machine Learning Research* 162:5777-5792 (2022, June 17-23) \[Spotlight\]. [\[PDF\]](https://petereckmann1.github.io/files/limo.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/LIMO) [\[Website\]](https://www.limo-aimd.com/)
 
 Journal Publications
@@ -60,3 +61,7 @@ Conference Abstracts
 * **Eckmann P**, Bandrowski A. PreprintMatch: a new tool to match manuscripts across multiple similarity metrics. *International Neuroinformatics Coordinating Facility Assembly*, held virtually (2021, April 19-29) \[Poster presentation\]. [\[Link\]](https://neuroinformatics.incf.org/node/264)
 * **Eckmann P**, Riedel N, Kilicoglu H, Labbé C, Ter Riet G, Byrne J, Cabanac G, Capes-Davis A, Favier B, Saladi S, Grabitz P, Bannach-Brown A, Schulz R, McCann S, Bernard R, Weissgerber T, Bandrowski A. Automated screening of COVID-19 preprints: can we help authors to improve transparency and reproducibility? Annual Meeting, *Association for Interdisciplinary Meta-Research and Open Science (AIMOS)*, held virtually (2020, December 3-4) \[Poster presentation\]. [\[Link\]](https://osf.io/ep9qh/)
 * **Eckmann P**, Riedel N, Kilicoglu H, Labbé C, Ter Riet G, Byrne J, Cabanac G, Capes-Davis A, Favier B, Saladi S, Grabitz P, Bannach-Brown A, Schulz R, McCann S, Bernard R, Weissgerber T, Bandrowski A. Automated screening of COVID-19 preprints: can we help authors to improve transparency and reproducibility? *Research Reproducibility 2020*, held virtually (2020, December 2-3) \[Oral presentation\]. [\[Link\]](https://pwd.aa.ufl.edu/researchre-pro/wp-content/uploads/sites/8/2020/11/Paper_3-3_Eckmann_Peter.pdf)
+
+Review Activity
+====
+Reviewer, *International Conference on Learning Representations* 2025
