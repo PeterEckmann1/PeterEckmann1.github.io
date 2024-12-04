@@ -30,23 +30,23 @@ Honors and Awards
 
 Conference Publications
 =====
-* **Eckmann P**, Wu D, Heinzelmann G, Gilson M, Yu R (2024). MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning. *AIDrugX* and *Machine Learning in Structural Biology* workshops at the *Conference on Neural Information Processing Systems* (2024, December 15). [\[PDF\]](https://petereckmann1.github.io/files/mflal.pdf) 
-* **Eckmann P**, Sun K, Zhao B, Feng M, Gilson M, Yu R (2022). LIMO: Latent Inceptionism for Targeted Molecule Generation. *Proceedings of the 39th International Conference on Machine Learning (ICML)*, in *Proceedings of Machine Learning Research* 162:5777-5792 (2022, June 17-23) \[Spotlight\]. [\[PDF\]](https://petereckmann1.github.io/files/limo.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/LIMO) [\[Website\]](https://www.limo-aimd.com/)
+* **Eckmann P**, Wu D, Heinzelmann G, Gilson MK, Yu R (2024). MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning. *AIDrugX* and *Machine Learning in Structural Biology* workshops at the *Conference on Neural Information Processing Systems (NeurIPS)* (2024, December 15). [\[PDF\]](https://petereckmann1.github.io/files/mflal.pdf) 
+* **Eckmann P**, Sun K, Zhao B, Feng M, Gilson MK, Yu R (2022). LIMO: Latent Inceptionism for Targeted Molecule Generation. *Proceedings of the 39th International Conference on Machine Learning (ICML)*, in *Proceedings of Machine Learning Research* 162:5777-5792 (2022, June 17-23). [\[PDF\]](https://petereckmann1.github.io/files/limo.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/LIMO) [\[Website\]](https://www.limo-aimd.com/)
 
 Journal Publications
 =====
-* **Eckmann P**, Anderson J, Yu R, Gilson M (2024). Ligand-Based Compound Activity Prediction via Few-Shot Learning. *Journal of Chemical Information and Modeling*, 64 (14), 5492-5499. [\[PDF\]](https://petereckmann1.github.io/files/eckmann-et-al-2024-ligand-based-compound-activity-prediction-via-few-shot-learning.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/FS-CAP)
+* **Eckmann P**, Anderson J, Yu R, Gilson MK (2024). Ligand-Based Compound Activity Prediction via Few-Shot Learning. *Journal of Chemical Information and Modeling*, 64 (14), 5492-5499. [\[PDF\]](https://petereckmann1.github.io/files/eckmann-et-al-2024-ligand-based-compound-activity-prediction-via-few-shot-learning.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/FS-CAP)
 * Ayoubi R, Ryan J, Biddle MS, Alshafie W, Fotouhi M, Bolivar SG, Moleon VR, **Eckmann P**, Worrall D, McDowell I, Southern K, Reintsch W, Durcan TM, Brown C, Bandrowski A, Virk H, Edwards AM, McPherson P, Laflamme C (2023). Scaling of an antibody validation procedure enables quantification of antibody performance in major research applications. *eLife*, 12:RP91645. [\[PDF\]](https://petereckmann1.github.io/files/paper4.pdf)
 * **Eckmann P**, Bandrowski A (2023). PreprintMatch: a tool for preprint publication detection applied to analyze global inequities in scientific publishing. *PLoS ONE* 18(3): e0281659. [\[PDF\]](https://petereckmann1.github.io/files/preprint-match.pdf) [\[Code\]](https://github.com/PeterEckmann1/preprint-match)
 * Bandrowski A, Pairish M, **Eckmann P**, Grethe J, Martone ME (2023). The Antibody Registry: ten years of registering antibodies. *Nucleic Acids Research*, 51(D1), D358-D367. [\[PDF\]](https://petereckmann1.github.io/files/antibody-registry.pdf)
 * Schulz R, Barnett A, Bernard R, Brown NJ, Byrne JA, **Eckmann P**, Gazda MA, Kilicoglu H, Prager EM, Salholz-Hillel M, Ter Riet G, Vines T, Vorland CJ, Zhuang H, Bandrowski A, Weissgerber TL (2022). Is the future of peer review automated? *BMC Research Notes*, 15(1), 1-5. [\[PDF\]](https://petereckmann1.github.io/files/future-automated.pdf)
-* Menke, J, **Eckmann P**, Ozyurt IB, Roelandse M, Anderson N, Grethe J, Bandrowski A (2022). Establishing Institutional Scores With the Rigor and Transparency Index: Large-scale Analysis of Scientific Reporting Quality. *Journal of Medical Internet Research*, 24(6), e37324. [\[PDF\]](https://petereckmann1.github.io/files/rti2.pdf)
+* Menke J, **Eckmann P**, Ozyurt IB, Roelandse M, Anderson N, Grethe J, Bandrowski A (2022). Establishing Institutional Scores With the Rigor and Transparency Index: Large-scale Analysis of Scientific Reporting Quality. *Journal of Medical Internet Research*, 24(6), e37324. [\[PDF\]](https://petereckmann1.github.io/files/rti2.pdf)
 * Weissgerber T, Riedel N, Kilicoglu H, Labbé C, **Eckmann P**, Ter Riet G, Byrne J, Cabanac G, Capes-Davis A, Favier B, Saladi S, Grabitz P, Bannach-Brown A, Schulz R, McCann S, Bernard R, Bandrowski A (2021). Automated screening of COVID-19 preprints: can we help authors to improve transparency and reproducibility? *Nature Medicine* 27:6-7, 2021. [\[PDF\]](https://petereckmann1.github.io/files/automated-screening.pdf)
 
 Preprints
 =====
-* Thumuluri V, **Eckmann P**, Gilson M, Yu R (2024). Technical report: Improving the properties of molecules generated by LIMO. *arXiv*:2407.14968 [cs.LG]. [\[PDF\]](https://petereckmann1.github.io/files/2407.14968v1.pdf)
-* **Eckmann P**, Wu D, Heinzelmann G, Gilson M, Yu R (2024). MFBind: a Multi-Fidelity Approach for Evaluating Drug Compounds in Practical Generative Modeling. *arXiv*:2402.10387 [q-bio.BM]. [\[PDF\]](https://petereckmann1.github.io/files/mfbind.pdf)
+* Thumuluri V, **Eckmann P**, Gilson MK, Yu R (2024). Technical report: Improving the properties of molecules generated by LIMO. *arXiv*:2407.14968 [cs.LG]. [\[PDF\]](https://petereckmann1.github.io/files/2407.14968v1.pdf)
+* **Eckmann P**, Wu D, Heinzelmann G, Gilson MK, Yu R (2024). MFBind: a Multi-Fidelity Approach for Evaluating Drug Compounds in Practical Generative Modeling. *arXiv*:2402.10387 [q-bio.BM]. [\[PDF\]](https://petereckmann1.github.io/files/mfbind.pdf)
 
 Invited Talks
 ====
@@ -54,7 +54,7 @@ Invited Talks
 
 Patents
 ====
-* Yu R, **Eckmann P**, Sun K, Zhao B, Feng M, Gilson M (2023). Computational architecture to generate representations of molecules having targeted properties. United States patent pending US20240005179A1. June 16, 2023. [\[Link\]](https://patents.google.com/patent/US20240005179A1/en)
+* Yu R, **Eckmann P**, Sun K, Zhao B, Feng M, Gilson MK (2023). Computational architecture to generate representations of molecules having targeted properties. United States patent pending US20240005179A1. June 16, 2023. [\[Link\]](https://patents.google.com/patent/US20240005179A1/en)
 
 Conference Abstracts
 =====
