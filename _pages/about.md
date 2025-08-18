@@ -8,29 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, I'm a fourth-year undergraduate student at University of California San Diego pursuing a B.S. in Computer Science. I am a member of [Dr. Rose Yu's](https://roseyu.com/) Spatiotemporal Machine Learning Lab. My primary research interests are machine learning and its applications to small molecule drug discovery. My work has involved deep generative modeling, molecular dynamics, and few-shot learning.
-
-I am also involved with the [FAIR Data Informatics (FDI)](https://www.fdilab.org/) Lab at UC San Diego following a high school internship, where I use machine learning tools to quantify research quality and reproducibility. 
+Welcome! I'm an incoming Computer Science PhD student at Stanford University. Previously, I was an undergraduate at UC San Diego, where I worked with [Dr. Rose Yu's](https://roseyu.com/) Spatiotemporal Machine Learning Lab. My primary research interests are machine learning and its applications to drug discovery. My work has involved generative modeling, molecular dynamics, and few-shot learning for small molecule drug discovery.
 
 Education
 ======
+* PhD student, Stanford University *(starting Sept. 2025)*
 * Undergraduate, University of California San Diego *(Sept. 2021 - June 2025)*
-  * B.S. Computer Science, 3.952 GPA
-* High school student, University City High School, San Diego *(Sept. 2017 - June 2021)*
-  * 4.86 GPA
+  * B.S. Computer Science, 3.944 GPA
 
 Honors and Awards
 ======
+* Stanford Graduate Fellowship *(awarded Mar. 2025)*
+* NSF Graduate Research Fellowship *(awarded Apr. 2025)*
 * Finalist, Outstanding Undergraduate Researcher Award, North American colleges and universities, Computing Research Association *(Dec. 2023)*
 * NSF Research Experiences for Undergraduates Award *(June - Sept. 2023)*
 * Regents Scholarship, UC San Diego *(2021 - 2025)*
-* Salutatorian, University City High School *(2021)*
-* Finalist, National Merit Scholarship Corporation *(2021)*
-* Broadcom MASTERS Top National 300, Science Fair project *(2017)*
 
 Conference Publications
 =====
-* **Eckmann P**, Wu D, Heinzelmann G, Gilson MK, Yu R (2024). MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning. *AIDrugX* and *Machine Learning in Structural Biology* workshops at the *Conference on Neural Information Processing Systems (NeurIPS)* (2024, December 15). [\[PDF\]](https://petereckmann1.github.io/files/mflal.pdf) 
+* **Eckmann P**, Wu D, Heinzelmann G, Gilson MK, Yu R (2024). MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning. *AIDrugX* and *Machine Learning in Structural Biology* workshops at the *Conference on Neural Information Processing Systems (NeurIPS)* (2024, December 15). [\[PDF\]](https://petereckmann1.github.io/files/mflal.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/MF-LAL)
 * **Eckmann P**, Sun K, Zhao B, Feng M, Gilson MK, Yu R (2022). LIMO: Latent Inceptionism for Targeted Molecule Generation. *Proceedings of the 39th International Conference on Machine Learning (ICML)*, in *Proceedings of Machine Learning Research* 162:5777-5792 (2022, June 17-23). [\[PDF\]](https://petereckmann1.github.io/files/limo.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/LIMO) [\[Website\]](https://www.limo-aimd.com/)
 
 Journal Publications
@@ -64,4 +60,4 @@ Conference Abstracts
 
 Review Activity
 ====
-Reviewer, *International Conference on Learning Representations* 2025
+Reviewer, *International Conference on Learning Representations (ICLR)* 2025
