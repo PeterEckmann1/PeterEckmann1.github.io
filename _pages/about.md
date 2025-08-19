@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm an incoming Computer Science PhD student at Stanford University. Previously, I was an undergraduate at UC San Diego, where I worked with [Dr. Rose Yu's](https://roseyu.com/) Spatiotemporal Machine Learning Lab. My primary research interests are machine learning and its applications to drug discovery. My work has involved generative modeling, molecular dynamics, and few-shot learning for small molecule drug discovery.
+Welcome! I'm an incoming Computer Science PhD student at Stanford University. Previously, I was an undergraduate at UC San Diego, where I worked in [Dr. Rose Yu](https://roseyu.com/)'s Spatiotemporal Machine Learning Lab. My primary research interests are in machine learning and its applications to drug discovery. My work has involved generative modeling, molecular dynamics, and few-shot learning for small molecule drug discovery.
 
 Education
 ======
@@ -26,8 +26,8 @@ Honors and Awards
 
 Conference Publications
 =====
-* **Eckmann P**, Wu D, Heinzelmann G, Gilson MK, Yu R (2024). MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning. *AIDrugX* and *Machine Learning in Structural Biology* workshops at the *Conference on Neural Information Processing Systems (NeurIPS)* (2024, December 15). [\[PDF\]](https://petereckmann1.github.io/files/mflal.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/MF-LAL)
-* **Eckmann P**, Sun K, Zhao B, Feng M, Gilson MK, Yu R (2022). LIMO: Latent Inceptionism for Targeted Molecule Generation. *Proceedings of the 39th International Conference on Machine Learning (ICML)*, in *Proceedings of Machine Learning Research* 162:5777-5792 (2022, June 17-23). [\[PDF\]](https://petereckmann1.github.io/files/limo.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/LIMO) [\[Website\]](https://www.limo-aimd.com/)
+* **Eckmann P**, Wu D, Heinzelmann G, Gilson MK, Yu R (2025). MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning. Presented at *42nd International Conference on Machine Learning (ICML)* (2025, July 13-19). [\[PDF\]](https://arxiv.org/pdf/2410.11226) [\[Code\]](https://github.com/Rose-STL-Lab/MF-LAL)
+* **Eckmann P**, Sun K, Zhao B, Feng M, Gilson MK, Yu R (2022). LIMO: Latent Inceptionism for Targeted Molecule Generation. Presented at *39th International Conference on Machine Learning (ICML)* (2022, June 17-23). [\[PDF\]](https://petereckmann1.github.io/files/limo.pdf) [\[Code\]](https://github.com/Rose-STL-Lab/LIMO)
 
 Journal Publications
 =====

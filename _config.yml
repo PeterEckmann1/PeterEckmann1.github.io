@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Peter Eckmann"
   avatar           : "profile.jpg"
-  bio              : "Fourth-year Undergraduate <br>UC San Diego<br>B.S. Computer Science"
-  location         : "San Diego, California"
+  bio              : "Incoming CS PhD<br>Stanford University<br>"
+  location         : "Palo Alto, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y0Lhe-YAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/peter-eckmann-78a213364/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
