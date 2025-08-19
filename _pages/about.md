@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm an incoming Computer Science PhD student at Stanford University. Previously, I was an undergraduate at UC San Diego, where I worked in [Dr. Rose Yu](https://roseyu.com/)'s Spatiotemporal Machine Learning Lab. My primary research interests are in machine learning and its applications to drug discovery. My work has involved generative modeling, molecular dynamics, and few-shot learning for small molecule drug discovery.
+Welcome! I'm an incoming Computer Science PhD student at Stanford University. Previously, I was an undergraduate at UC San Diego, where I worked with [Dr. Rose Yu](https://roseyu.com/) and [Dr. Mike Gilson](https://gilson.cloud.ucsd.edu/). My primary research interests are in machine learning and its applications to drug discovery. My work has involved generative modeling, molecular dynamics, and few-shot learning for small molecule drug discovery.
 
 Education
 ======
